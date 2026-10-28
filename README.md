@@ -86,3 +86,7 @@ cp -r ppt-master-pro ~/.agents/skills/
 # 或项目级
 cp -r ppt-master-pro <project>/.zcode/skills/
 ```
+
+## License
+
+MIT
